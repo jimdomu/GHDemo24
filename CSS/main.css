@@ -1,0 +1,34 @@
+html {
+    text-align: center;
+    background-color: mediumpurple;
+}
+
+body {
+    font-family: Arial, Calibri, sans-serif;
+    margin: 30px 200px;
+    border: solid 2px black;
+    border-radius: 15px;
+}
+
+.content {
+    background-color: azure;
+}
+
+table {
+    margin: auto;
+    border: solid 2px yellow;
+}
+
+tr,
+td {
+    border: dotted 1px blue;
+    border-collapse: separate;
+}
+
+ul {
+    margin: auto;
+    text-align: center;
+    list-style: decimal;
+    list-style-position: inside;
+}
+
